@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/Kinfe123/JSON-SERVER-API#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "json-server": "^0.17.1"
   }
 }
